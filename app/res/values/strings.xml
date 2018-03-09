@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">진로아이두</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- 메뉴 -->
+    <string name="menu_newsfeed">뉴스피드</string>
+    <string name="menu_about">소개</string>
+    <string name="menu_event">이벤트</string>
+    <string name="menu_settings">설정하기</string>
+    <string name="question_where"><b>너는 지금 꿈을 위해 어디까지 왔니?</b></string>
+    <string name="question_how"><b>너는 지금까지 어떤 공부를 해왔니?</b></string>
+    <string name="question_else"><b>그럼 공부 말고 다른 것은?</b></string>
+    <string name="question_what"><b>네가 다시 중고딩이 되면 뭘 할 거 같니?</b></string>
+    <string name="question_open"><b>여는 글</b></string>
+    <string name="question_close"><b>닫는 글</b></string>
+    <string name="about_info_label"><b>소개</b></string>
+    <string name="about_info">진로아이두는 지금 꿈을 향해 달려가고 있는 사람들이 어떻게 공부해왔고, 어떻게 살아왔으며 어떤 계획을 가지고 살아가는지 알아보는 공간입니다. 글 쓰는 사람들은 대부분 이제 갓 대학에 들어온 대학생들이지만 투고 자격에 제한은 없습니다.
+\n\n사람들은 꿈을 꾸면서 살아가고, 이 꿈을 이루고자 노력할 때 가장 행복하다고 합니다. 서로의 꿈을 공유하고, 어떻게 그 꿈을 위해 노력해왔는지 자기 동기들, 그리고 앞으로 노력할 후배들을 위해 공유합시다.
+\n\n투고 글 요청은 jinro@idoo.net 으로 받으며, 올라온 양식과 같은 양식의 글, 연락 가능한 이메일(또는 카톡 아이디)와 얼굴 인식이 가능한 사진 한장을 보내주세요. 당신이 꾸고 있는 소중한 꿈을 공유해 주세요.
+\n\n*사이트는 아직 완성되지 않은 상태이며, 투고 및 양식 정책은 수시로 변경될 수 있음을 알려드립니다.
+\n** 투고 양식에서 경어의 사용 여부는 편한대로 작성해 주시면 됩니다.
+\n*** 현재 사이트는 100% 비영리로 운영되고 있습니다. 편하게 후배를 위한 조언을 공유해 주세요
+\n**또한 현재 진로아이두는 크리에이티브 커먼즈 저작자표시-비영리-변경금지 2.0 대한민국 라이선스에 따라 이용할 수 있으며, 글의 투고는 이 라이센스에 동의하는 것으로 간주됩니다.</string>
+    <string name="about_posting_label"><b>투고 안내</b></string>
+    <string name="about_posting">진로아이두는 꿈과 진로를 고민하는 10대 친구들을 위해, 이미 10대를 마친 친구들이 지난 시간들을 돌이켜보는 글을 모은 사이트입니다. 아래 형식을 갖추어 jinro 골뱅이 idoo.net 로 메일을 보내주시면 이야기를 실어드립니다!
+\n\n\t\t\t\t<b>이름 :</b> 아무개
+\n\t\t\t\t<b>학교 :</b> ㅇㅇㅇ대학교
+\n\t\t\t\t<b>전공 :</b> ㅇㅇㅇㅇㅇㅇ과
+\n\t\t\t\t<b>너는 지금 꿈을 위해 어디까지 왔니?</b>
+\n\t\t\t\t\t\t\t\t어쩌고저쩌고
+\n\t\t\t\t<b>너는 지금까지 어떤 공부를 해왔니?</b>
+\n\t\t\t\t\t\t\t\t어쩌고저쩌고
+\n\t\t\t\t<b>그럼 공부 말고 다른 것은?</b>
+\n\t\t\t\t\t\t\t\t어쩌고저쩌고
+\n\t\t\t\t<b>네가 다시 중고딩이 되면 뭘 할 것 같니?</b>
+\n\t\t\t\t\t\t\t\t어쩌고저쩌고
+\n\n지금 보내주세요!\n\n</string>
+
+</resources>

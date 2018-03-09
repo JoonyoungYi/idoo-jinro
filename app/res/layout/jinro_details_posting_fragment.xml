@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <TextView
+            android:id="@+id/answer_open_label_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_open"
+            android:textSize="21sp" 
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/answer_open_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" 
+            android:visibility="gone"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_where"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/answer_where_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_how"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/answer_how_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_else"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/answer_else_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_what"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/answer_what_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/answer_close_label_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36sp"
+            android:lineSpacingExtra="9sp"
+            android:text="@string/question_close"
+            android:textSize="21sp" 
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/answer_close_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18sp"
+            android:lineSpacingExtra="9sp"
+            android:textSize="18sp" 
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</ScrollView>
